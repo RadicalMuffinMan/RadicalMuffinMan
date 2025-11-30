@@ -2,11 +2,11 @@
 
 ###
 <div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=AxlNuneze&style=flat-square&color=blue" alt=""/> 
+  <img src="https://komarev.com/ghpvc/?username=RadicalMuffinMan&style=flat-square&color=blue" alt=""/> 
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AxlNunez&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AxlNunez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=RadicalMuffinMan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RadicalMuffinMan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <br />
 
@@ -49,9 +49,9 @@
   <a href="FullStackAxl@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://linkedin.com/in/AxlNunez" target="_blank">
+  <!-- <a href="https://linkedin.com/in/AxlNunez" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  </a> -->
 </div>
 
 ###
@@ -75,8 +75,8 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AxlNunez/AxlNunez/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AxlNunez/AxlNunez/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RadicalMuffinMan/AxlNunez/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RadicalMuffinMan/AxlNunez/output/github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
